@@ -1,0 +1,15 @@
+{
+  "id": "6",
+  "name": "Linea",
+  "category": "L2",
+  "type": "ZK Rollup",
+  "stage": "Stage 0",
+  "impact": "$559.81M",
+  "change": "-2.75%",
+  "risk": "medium",
+  "lastUpdated": "2025-02-12",
+  "openSource": true,
+  "openStandards": true,
+  "decentralized": "low",
+  "positiveSum": "medium"
+} 

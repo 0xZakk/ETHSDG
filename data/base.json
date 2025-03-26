@@ -1,0 +1,15 @@
+{
+  "id": "3",
+  "name": "Base",
+  "category": "L2",
+  "type": "Optimistic Rollup",
+  "stage": "Stage 0",
+  "impact": "$5.09B",
+  "change": "-1.46%",
+  "risk": "medium",
+  "lastUpdated": "2025-02-15",
+  "openSource": true,
+  "openStandards": true,
+  "decentralized": "low",
+  "positiveSum": "medium"
+} 

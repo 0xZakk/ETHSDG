@@ -1,0 +1,15 @@
+{
+  "id": "5",
+  "name": "Starknet",
+  "category": "L2",
+  "type": "ZK Rollup",
+  "stage": "Stage 0",
+  "impact": "$662.44M",
+  "change": "-2.55%",
+  "risk": "medium",
+  "lastUpdated": "2025-02-13",
+  "openSource": false,
+  "openStandards": true,
+  "decentralized": "low",
+  "positiveSum": "medium"
+} 

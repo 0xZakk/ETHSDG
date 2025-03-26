@@ -1,0 +1,15 @@
+{
+  "id": "1",
+  "name": "Arbitrum One",
+  "category": "L2",
+  "type": "Optimistic Rollup",
+  "stage": "Stage 1",
+  "impact": "$14.25B",
+  "change": "+2.42%",
+  "risk": "medium",
+  "lastUpdated": "2025-02-17",
+  "openSource": true,
+  "openStandards": true,
+  "decentralized": "medium",
+  "positiveSum": "high"
+} 

@@ -1,0 +1,15 @@
+{
+  "id": "4",
+  "name": "zkSync Era",
+  "category": "L2",
+  "type": "ZK Rollup",
+  "stage": "Stage 0",
+  "impact": "$956.12M",
+  "change": "-0.27%",
+  "risk": "medium",
+  "lastUpdated": "2025-02-14",
+  "openSource": false,
+  "openStandards": true,
+  "decentralized": "low",
+  "positiveSum": "medium"
+} 

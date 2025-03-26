@@ -1,0 +1,15 @@
+{
+  "id": "2",
+  "name": "Optimism",
+  "category": "L2",
+  "type": "Optimistic Rollup",
+  "stage": "Stage 1",
+  "impact": "$11.71B",
+  "change": "+1.16%",
+  "risk": "medium",
+  "lastUpdated": "2025-02-16",
+  "openSource": true,
+  "openStandards": true,
+  "decentralized": "medium",
+  "positiveSum": "high"
+} 
